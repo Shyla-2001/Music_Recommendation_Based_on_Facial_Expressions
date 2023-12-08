@@ -1,0 +1,54 @@
+.song-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.song-container img {
+    height: 60vh;
+    width: 40vw;
+}
+
+.song-container li {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+audio {
+    height: 20px;
+}
+
+.audiobox>div {
+    height: 20px;
+}
+
+.preview {
+    border-radius: 100px;
+    margin: 5rem;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.cat {
+    height: 60px;
+}
+
+.audiobox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    margin: 0;
+}
+
+nav {
+    height: 15vh;
+}

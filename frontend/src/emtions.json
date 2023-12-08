@@ -1,0 +1,30 @@
+[
+    {
+        "language": "Happy",
+        "icon": "😁"
+    },
+    {
+        "language": "Angry",
+        "icon": "😡"
+    },
+    {
+        "language": "Sad",
+        "icon": "😔"
+    },
+    {
+        "language": "Surprised",
+        "icon": "😯"
+    },
+    {
+        "language": "Fearful",
+        "icon": "😱"
+    },
+    {
+        "language": "Disgusted",
+        "icon": "🤢"
+    },
+    {
+        "language": "Neutral",
+        "icon": "😐"
+    }
+]

@@ -1,0 +1,60 @@
+.bg {
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -12;
+    height: 100vh;
+}
+
+.container {
+    width: 30vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selfie {
+    z-index: 999;
+}
+
+video {
+    z-index: 999;
+    border-radius: 50%;
+    width: 50%;
+    margin-top: 5vw;
+    height: 30vh;
+
+}
+
+.camera {
+    position: absolute;
+    width: 40vw;
+    /* z-index: -1; */
+}
+
+button {
+    font-size: 4rem;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    border-radius: 100%;
+    width: 130px;
+    padding: 30px;
+}
+
+.click {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+img.selfie {
+    width: 40vw;
+    border-radius: 40px;
+}
